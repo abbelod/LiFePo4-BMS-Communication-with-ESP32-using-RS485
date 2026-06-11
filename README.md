@@ -4,6 +4,8 @@ Monitor your LiFePO4 battery BMS over RS485 using an ESP32 and publish live data
 
 ---
 
+![Diagram](ESPBattery.drawio.png)
+
 ## Features
 
 - Reads battery SOC, voltage, current, temperature, and charge status
